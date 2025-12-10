@@ -6,7 +6,4 @@ module github.com/thib-d/go-mail
 
 go 1.24.0
 
-require (
-	github.com/thib-d/go-mail v0.7.2
-	golang.org/x/text v0.32.0
-)
+require golang.org/x/text v0.32.0
